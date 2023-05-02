@@ -26,3 +26,7 @@ The following questions will be answered in this project:
 - `Exam.pdf`: The Exam pdf provided by F.Ielpo
 - `notes_cours_TimeSeries.pdf`: Some of our notes.
 
+## Contributors : 
+- [Sarra Ben Yahia](https://github.com/sarrabenyahia)
+- [José Ángel García Sánchez](https://github.com/JoseAngelGarciaSanchez)
+
