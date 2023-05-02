@@ -1,4 +1,4 @@
-# Exam Project README
+# Exam Project 
 
 This is an exam project based on the analysis of the "data_exam.xlsx" spreadsheet. The goal of this project is to improve variance and volatility measures, and study their joint relationships.
 
