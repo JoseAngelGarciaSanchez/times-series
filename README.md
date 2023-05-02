@@ -1,7 +1,7 @@
 # Time Series Exam Project
 
 
-This Github repository contains the Time Series project for the Time Series course supervised by Florian Ielpo.
+This Github repository contains the Time Series project for the Time Series course supervised by [Florian Ielpo](https://www.linkedin.com/in/florian-ielpo-9948b38/).
 This is a project based on the analysis of the "data_exam.xlsx" spreadsheet. The goal of this project is to improve variance and volatility measures, and study their joint relationships.
 
 ## Data Description
